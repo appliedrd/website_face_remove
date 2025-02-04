@@ -10,7 +10,7 @@ import webbrowser
 import tempfile
 
 # Load the image of the person you want to recognize
-known_image = face_recognition.load_image_file('c://Users//ted//CODE//TRAINING_DATA//0_14.jpg')
+known_image = face_recognition.load_image_file('match_img//trump.jpg')
 known_face_encoding = face_recognition.face_encodings(known_image)[0]
 
 # URL of the web page to parse
