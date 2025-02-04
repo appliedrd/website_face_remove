@@ -1,3 +1,4 @@
+# Trump face remover
 parse a page, and remove the image if it matches.
 tested on bbc and cbc sites.
 problems
